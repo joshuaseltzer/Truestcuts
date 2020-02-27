@@ -2,9 +2,9 @@ DEBUG=0
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = Truecuts
+TWEAK_NAME = Truestcuts
 
-Truecuts_FILES = Tweak.xm
-Truecuts_CFLAGS = -fobjc-arc
+Truestcuts_FILES = Tweak.xm
+Truestcuts_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
