@@ -2,7 +2,8 @@
     Filter =     {
         Bundles =         (
             "com.apple.WorkflowKit",
-            "com.apple.Shortcuts"
+            "com.apple.Shortcuts",
+            "com.apple.SpringBoard"
         );
     };
 }
