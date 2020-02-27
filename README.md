@@ -1,3 +1,3 @@
-# Truecuts
+# Truestcuts
 
-Optimo added the icon into the package, I’ll need to reflect that in the source soon.
+Makes Shortcuts "Automations" actual automations and stops notifications too!
