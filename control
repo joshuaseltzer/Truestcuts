@@ -1,4 +1,4 @@
-Package: com.cultoftheilluminati.truestcuts
+Package: com.shivesh.truestcuts
 Name: Truestcuts
 Depends: mobilesubstrate, firmware (>=13.0)
 Version: 1.0.0

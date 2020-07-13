@@ -15,7 +15,7 @@
 %hook NCNotificationDispatcher
 -(void)postNotificationWithRequest:(NCNotificationRequest*)arg1 {
 
-	if (![[arg1 sectionIdentifier] isEqualToString:@"com.apple.shortcuts"]) {
+	if (!([[[arg1 content] title] containsString:@"Automation"] || [[[arg1 content] message] containsString:@"automation"])) {
 		%orig;
 	}
 		
