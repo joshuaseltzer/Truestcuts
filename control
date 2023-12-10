@@ -1,7 +1,7 @@
 Package: com.shivesh.truestcuts
 Name: Truestcuts
 Depends: mobilesubstrate, firmware (>=13.0)
-Version: 1.1.0
+Version: 1.1.0-cobra2168
 Architecture: iphoneos-arm
 Description: Enables true Automations and removes notifications too.
 Maintainer: Shivesh <mmshivesh@gmail.com>

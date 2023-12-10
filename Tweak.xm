@@ -1,3 +1,5 @@
+#import <Foundation/Foundation.h>
+
 @interface WFTrigger : NSObject
 +(BOOL)isAllowedToRunAutomatically;
 @end
